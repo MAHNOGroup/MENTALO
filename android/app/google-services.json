@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124612766079",
+    "project_id": "mentalo-app",
+    "storage_bucket": "mentalo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124612766079:android:58cf5a136c6528a716d24a",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6BanvL5XT4ov_zp9MpeDaXbH3MHjTf6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
